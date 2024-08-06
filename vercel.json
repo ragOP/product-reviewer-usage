@@ -1,0 +1,9 @@
+{
+    "routes": [
+      {
+        "src": "/fbed",
+        "dest": "/second.html"
+      }
+    ]
+  }
+  
